@@ -1,0 +1,20 @@
+# Node.js specific
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build Fajlovi
+dist/
+coverage/
